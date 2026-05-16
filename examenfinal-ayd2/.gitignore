@@ -1,0 +1,37 @@
+# Maven / Java
+/target/
+/generated-sources/
+/generated-test-sources/
+/test-classes/
+/surefire-reports/
+
+# Compiled class files
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+logs/
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/
+.history/
+/.classpath
+/.project
+/.settings/
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+.mvn/
+
+# Other
+out/
+build/
